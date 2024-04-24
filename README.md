@@ -3,3 +3,4 @@ ini merupakan tugas kedua dari guru saya untuk membuat website tapi menggunakan 
 
 # update 
 - saya membuat readme.md
+- testing
